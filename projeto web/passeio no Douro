@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>passeio no Douro</title>
+    <h1> Passeio no Douro</h1>
+<img src="imagens/passeio no Douro.jpg" width="500" height="300">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HfxMmQsQUHE?si=TMxd9-O2F2z9hxJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br> 
+<br>
+     <a href="termas carvalhal">Voltar</a> <a href="imagem e voz">continuar</a>
+</head>
